@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.hanscan.v3"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.hanscan.v3"
         minSdk = 26
-        targetSdk = 37
+        targetSdk = 36
         versionCode = 3
         versionName = "3.0-alpha"
     }
