@@ -1,0 +1,2042 @@
+[
+  {
+    "s": "我",
+    "t": "我",
+    "p": "wǒ",
+    "vi": "tôi, mình",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "你",
+    "t": "你",
+    "p": "nǐ",
+    "vi": "bạn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "您",
+    "t": "您",
+    "p": "nín",
+    "vi": "ông/bà/ngài, bạn (kính ngữ)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "他",
+    "t": "他",
+    "p": "tā",
+    "vi": "anh ấy, ông ấy",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "她",
+    "t": "她",
+    "p": "tā",
+    "vi": "cô ấy, bà ấy",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "它",
+    "t": "它",
+    "p": "tā",
+    "vi": "nó",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "我们",
+    "t": "我們",
+    "p": "wǒmen",
+    "vi": "chúng tôi, chúng ta",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "你们",
+    "t": "你們",
+    "p": "nǐmen",
+    "vi": "các bạn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "他们",
+    "t": "他們",
+    "p": "tāmen",
+    "vi": "họ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "她们",
+    "t": "她們",
+    "p": "tāmen",
+    "vi": "họ (nữ)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "这",
+    "t": "這",
+    "p": "zhè",
+    "vi": "này, đây",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "那",
+    "t": "那",
+    "p": "nà",
+    "vi": "kia, đó",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "这个",
+    "t": "這個",
+    "p": "zhège",
+    "vi": "cái này",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "那个",
+    "t": "那個",
+    "p": "nàge",
+    "vi": "cái kia",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "哪",
+    "t": "哪",
+    "p": "nǎ",
+    "vi": "nào",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "哪个",
+    "t": "哪個",
+    "p": "nǎge",
+    "vi": "cái nào",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "哪儿",
+    "t": "哪兒",
+    "p": "nǎr",
+    "vi": "ở đâu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "哪里",
+    "t": "哪裡",
+    "p": "nǎlǐ",
+    "vi": "ở đâu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "谁",
+    "t": "誰",
+    "p": "shéi",
+    "vi": "ai",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "什么",
+    "t": "什麼",
+    "p": "shénme",
+    "vi": "cái gì, gì",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "怎么",
+    "t": "怎麼",
+    "p": "zěnme",
+    "vi": "như thế nào",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "为什么",
+    "t": "為什麼",
+    "p": "wèishénme",
+    "vi": "tại sao",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "几",
+    "t": "幾",
+    "p": "jǐ",
+    "vi": "mấy",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "多少",
+    "t": "多少",
+    "p": "duōshao",
+    "vi": "bao nhiêu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "是",
+    "t": "是",
+    "p": "shì",
+    "vi": "là",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "不是",
+    "t": "不是",
+    "p": "bú shì",
+    "vi": "không phải",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "有",
+    "t": "有",
+    "p": "yǒu",
+    "vi": "có",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "没有",
+    "t": "沒有",
+    "p": "méiyǒu",
+    "vi": "không có, chưa có",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "在",
+    "t": "在",
+    "p": "zài",
+    "vi": "ở; đang",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "不",
+    "t": "不",
+    "p": "bù",
+    "vi": "không",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "没",
+    "t": "沒",
+    "p": "méi",
+    "vi": "không, chưa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "很",
+    "t": "很",
+    "p": "hěn",
+    "vi": "rất",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "太",
+    "t": "太",
+    "p": "tài",
+    "vi": "quá, rất",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "也",
+    "t": "也",
+    "p": "yě",
+    "vi": "cũng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "都",
+    "t": "都",
+    "p": "dōu",
+    "vi": "đều",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "还",
+    "t": "還",
+    "p": "hái",
+    "vi": "còn, vẫn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "再",
+    "t": "再",
+    "p": "zài",
+    "vi": "lại, lần nữa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "就",
+    "t": "就",
+    "p": "jiù",
+    "vi": "thì, liền",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "已经",
+    "t": "已經",
+    "p": "yǐjīng",
+    "vi": "đã",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "正在",
+    "t": "正在",
+    "p": "zhèngzài",
+    "vi": "đang",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "可以",
+    "t": "可以",
+    "p": "kěyǐ",
+    "vi": "có thể, được phép",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "可能",
+    "t": "可能",
+    "p": "kěnéng",
+    "vi": "có thể, có khả năng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "会",
+    "t": "會",
+    "p": "huì",
+    "vi": "biết, có thể (kỹ năng)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "能",
+    "t": "能",
+    "p": "néng",
+    "vi": "có thể",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "要",
+    "t": "要",
+    "p": "yào",
+    "vi": "muốn, cần, sẽ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "想",
+    "t": "想",
+    "p": "xiǎng",
+    "vi": "muốn; nghĩ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "喜欢",
+    "t": "喜歡",
+    "p": "xǐhuan",
+    "vi": "thích",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "爱",
+    "t": "愛",
+    "p": "ài",
+    "vi": "yêu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "知道",
+    "t": "知道",
+    "p": "zhīdào",
+    "vi": "biết",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "认识",
+    "t": "認識",
+    "p": "rènshi",
+    "vi": "biết, quen",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "明白",
+    "t": "明白",
+    "p": "míngbai",
+    "vi": "hiểu rõ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "懂",
+    "t": "懂",
+    "p": "dǒng",
+    "vi": "hiểu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "觉得",
+    "t": "覺得",
+    "p": "juéde",
+    "vi": "cảm thấy, cho rằng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "说",
+    "t": "說",
+    "p": "shuō",
+    "vi": "nói",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "听",
+    "t": "聽",
+    "p": "tīng",
+    "vi": "nghe",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "看",
+    "t": "看",
+    "p": "kàn",
+    "vi": "xem, nhìn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "读",
+    "t": "讀",
+    "p": "dú",
+    "vi": "đọc",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "写",
+    "t": "寫",
+    "p": "xiě",
+    "vi": "viết",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "问",
+    "t": "問",
+    "p": "wèn",
+    "vi": "hỏi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "回答",
+    "t": "回答",
+    "p": "huídá",
+    "vi": "trả lời",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "学习",
+    "t": "學習",
+    "p": "xuéxí",
+    "vi": "học tập",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "学",
+    "t": "學",
+    "p": "xué",
+    "vi": "học",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "汉语",
+    "t": "漢語",
+    "p": "Hànyǔ",
+    "vi": "tiếng Trung",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "中文",
+    "t": "中文",
+    "p": "Zhōngwén",
+    "vi": "tiếng Trung",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "英语",
+    "t": "英語",
+    "p": "Yīngyǔ",
+    "vi": "tiếng Anh",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "语言",
+    "t": "語言",
+    "p": "yǔyán",
+    "vi": "ngôn ngữ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "名字",
+    "t": "名字",
+    "p": "míngzi",
+    "vi": "tên",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "中国",
+    "t": "中國",
+    "p": "Zhōngguó",
+    "vi": "Trung Quốc",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "中国人",
+    "t": "中國人",
+    "p": "Zhōngguórén",
+    "vi": "người Trung Quốc",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "越南",
+    "t": "越南",
+    "p": "Yuènán",
+    "vi": "Việt Nam",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "北京",
+    "t": "北京",
+    "p": "Běijīng",
+    "vi": "Bắc Kinh",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "上海",
+    "t": "上海",
+    "p": "Shànghǎi",
+    "vi": "Thượng Hải",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "学校",
+    "t": "學校",
+    "p": "xuéxiào",
+    "vi": "trường học",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "大学",
+    "t": "大學",
+    "p": "dàxué",
+    "vi": "đại học",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "学生",
+    "t": "學生",
+    "p": "xuésheng",
+    "vi": "học sinh, sinh viên",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "大学生",
+    "t": "大學生",
+    "p": "dàxuéshēng",
+    "vi": "sinh viên đại học",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "老师",
+    "t": "老師",
+    "p": "lǎoshī",
+    "vi": "giáo viên",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "同学",
+    "t": "同學",
+    "p": "tóngxué",
+    "vi": "bạn học",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "朋友",
+    "t": "朋友",
+    "p": "péngyou",
+    "vi": "bạn bè",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "家",
+    "t": "家",
+    "p": "jiā",
+    "vi": "nhà, gia đình",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "爸爸",
+    "t": "爸爸",
+    "p": "bàba",
+    "vi": "bố",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "妈妈",
+    "t": "媽媽",
+    "p": "māma",
+    "vi": "mẹ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "哥哥",
+    "t": "哥哥",
+    "p": "gēge",
+    "vi": "anh trai",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "姐姐",
+    "t": "姐姐",
+    "p": "jiějie",
+    "vi": "chị gái",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "弟弟",
+    "t": "弟弟",
+    "p": "dìdi",
+    "vi": "em trai",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "妹妹",
+    "t": "妹妹",
+    "p": "mèimei",
+    "vi": "em gái",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "孩子",
+    "t": "孩子",
+    "p": "háizi",
+    "vi": "trẻ em, con cái",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "先生",
+    "t": "先生",
+    "p": "xiānsheng",
+    "vi": "ông, ngài",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "小姐",
+    "t": "小姐",
+    "p": "xiǎojiě",
+    "vi": "cô, tiểu thư",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "人",
+    "t": "人",
+    "p": "rén",
+    "vi": "người",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "男",
+    "t": "男",
+    "p": "nán",
+    "vi": "nam",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "女",
+    "t": "女",
+    "p": "nǚ",
+    "vi": "nữ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "去",
+    "t": "去",
+    "p": "qù",
+    "vi": "đi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "来",
+    "t": "來",
+    "p": "lái",
+    "vi": "đến",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "回",
+    "t": "回",
+    "p": "huí",
+    "vi": "trở về",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "回来",
+    "t": "回來",
+    "p": "huílai",
+    "vi": "quay trở lại",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "回家",
+    "t": "回家",
+    "p": "huí jiā",
+    "vi": "về nhà",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "走",
+    "t": "走",
+    "p": "zǒu",
+    "vi": "đi, rời đi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "到",
+    "t": "到",
+    "p": "dào",
+    "vi": "đến",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "进",
+    "t": "進",
+    "p": "jìn",
+    "vi": "vào",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "进去",
+    "t": "進去",
+    "p": "jìnqu",
+    "vi": "đi vào",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "出",
+    "t": "出",
+    "p": "chū",
+    "vi": "ra",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "出来",
+    "t": "出來",
+    "p": "chūlai",
+    "vi": "đi ra",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "坐",
+    "t": "坐",
+    "p": "zuò",
+    "vi": "ngồi; đi bằng phương tiện",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "开",
+    "t": "開",
+    "p": "kāi",
+    "vi": "mở; lái",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "住",
+    "t": "住",
+    "p": "zhù",
+    "vi": "ở, cư trú",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "吃",
+    "t": "吃",
+    "p": "chī",
+    "vi": "ăn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "喝",
+    "t": "喝",
+    "p": "hē",
+    "vi": "uống",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "吃饭",
+    "t": "吃飯",
+    "p": "chīfàn",
+    "vi": "ăn cơm, ăn bữa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "喝水",
+    "t": "喝水",
+    "p": "hē shuǐ",
+    "vi": "uống nước",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "饭",
+    "t": "飯",
+    "p": "fàn",
+    "vi": "cơm, bữa ăn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "米饭",
+    "t": "米飯",
+    "p": "mǐfàn",
+    "vi": "cơm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "面条",
+    "t": "麵條",
+    "p": "miàntiáo",
+    "vi": "mì",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "水",
+    "t": "水",
+    "p": "shuǐ",
+    "vi": "nước",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "茶",
+    "t": "茶",
+    "p": "chá",
+    "vi": "trà",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "咖啡",
+    "t": "咖啡",
+    "p": "kāfēi",
+    "vi": "cà phê",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "牛奶",
+    "t": "牛奶",
+    "p": "niúnǎi",
+    "vi": "sữa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "酒",
+    "t": "酒",
+    "p": "jiǔ",
+    "vi": "rượu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "菜",
+    "t": "菜",
+    "p": "cài",
+    "vi": "món ăn; rau",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "水果",
+    "t": "水果",
+    "p": "shuǐguǒ",
+    "vi": "hoa quả",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "苹果",
+    "t": "蘋果",
+    "p": "píngguǒ",
+    "vi": "táo",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "香蕉",
+    "t": "香蕉",
+    "p": "xiāngjiāo",
+    "vi": "chuối",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "买",
+    "t": "買",
+    "p": "mǎi",
+    "vi": "mua",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "卖",
+    "t": "賣",
+    "p": "mài",
+    "vi": "bán",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "钱",
+    "t": "錢",
+    "p": "qián",
+    "vi": "tiền",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "多少钱",
+    "t": "多少錢",
+    "p": "duōshao qián",
+    "vi": "bao nhiêu tiền",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "东西",
+    "t": "東西",
+    "p": "dōngxi",
+    "vi": "đồ vật, thứ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "商店",
+    "t": "商店",
+    "p": "shāngdiàn",
+    "vi": "cửa hàng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "便宜",
+    "t": "便宜",
+    "p": "piányi",
+    "vi": "rẻ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "贵",
+    "t": "貴",
+    "p": "guì",
+    "vi": "đắt",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一个",
+    "t": "一個",
+    "p": "yí ge",
+    "vi": "một cái, một người",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一本",
+    "t": "一本",
+    "p": "yì běn",
+    "vi": "một quyển",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一杯",
+    "t": "一杯",
+    "p": "yì bēi",
+    "vi": "một cốc, một ly",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一些",
+    "t": "一些",
+    "p": "yìxiē",
+    "vi": "một vài, một số",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一点",
+    "t": "一點",
+    "p": "yìdiǎn",
+    "vi": "một chút",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "个",
+    "t": "個",
+    "p": "ge",
+    "vi": "cái, người (lượng từ phổ biến)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "本",
+    "t": "本",
+    "p": "běn",
+    "vi": "quyển (lượng từ)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "杯",
+    "t": "杯",
+    "p": "bēi",
+    "vi": "cốc, ly (lượng từ)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "张",
+    "t": "張",
+    "p": "zhāng",
+    "vi": "tờ, chiếc (lượng từ đồ phẳng)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "书",
+    "t": "書",
+    "p": "shū",
+    "vi": "sách",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "看书",
+    "t": "看書",
+    "p": "kàn shū",
+    "vi": "đọc sách",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "电脑",
+    "t": "電腦",
+    "p": "diànnǎo",
+    "vi": "máy tính",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "手机",
+    "t": "手機",
+    "p": "shǒujī",
+    "vi": "điện thoại",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "电视",
+    "t": "電視",
+    "p": "diànshì",
+    "vi": "tivi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "电影",
+    "t": "電影",
+    "p": "diànyǐng",
+    "vi": "phim",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "音乐",
+    "t": "音樂",
+    "p": "yīnyuè",
+    "vi": "âm nhạc",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "工作",
+    "t": "工作",
+    "p": "gōngzuò",
+    "vi": "làm việc; công việc",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "公司",
+    "t": "公司",
+    "p": "gōngsī",
+    "vi": "công ty",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "医院",
+    "t": "醫院",
+    "p": "yīyuàn",
+    "vi": "bệnh viện",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "饭店",
+    "t": "飯店",
+    "p": "fàndiàn",
+    "vi": "nhà hàng; khách sạn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "机场",
+    "t": "機場",
+    "p": "jīchǎng",
+    "vi": "sân bay",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "火车站",
+    "t": "火車站",
+    "p": "huǒchēzhàn",
+    "vi": "ga tàu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "出租车",
+    "t": "出租車",
+    "p": "chūzūchē",
+    "vi": "taxi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "车",
+    "t": "車",
+    "p": "chē",
+    "vi": "xe",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "路",
+    "t": "路",
+    "p": "lù",
+    "vi": "đường",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "房间",
+    "t": "房間",
+    "p": "fángjiān",
+    "vi": "phòng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "今天",
+    "t": "今天",
+    "p": "jīntiān",
+    "vi": "hôm nay",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "明天",
+    "t": "明天",
+    "p": "míngtiān",
+    "vi": "ngày mai",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "昨天",
+    "t": "昨天",
+    "p": "zuótiān",
+    "vi": "hôm qua",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "现在",
+    "t": "現在",
+    "p": "xiànzài",
+    "vi": "bây giờ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "时候",
+    "t": "時候",
+    "p": "shíhou",
+    "vi": "lúc, thời điểm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "时间",
+    "t": "時間",
+    "p": "shíjiān",
+    "vi": "thời gian",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "年",
+    "t": "年",
+    "p": "nián",
+    "vi": "năm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "月",
+    "t": "月",
+    "p": "yuè",
+    "vi": "tháng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "日",
+    "t": "日",
+    "p": "rì",
+    "vi": "ngày",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "号",
+    "t": "號",
+    "p": "hào",
+    "vi": "ngày (số); số hiệu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "星期",
+    "t": "星期",
+    "p": "xīngqī",
+    "vi": "tuần; thứ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "点",
+    "t": "點",
+    "p": "diǎn",
+    "vi": "giờ; điểm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "分钟",
+    "t": "分鐘",
+    "p": "fēnzhōng",
+    "vi": "phút",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "小时",
+    "t": "小時",
+    "p": "xiǎoshí",
+    "vi": "giờ (đơn vị thời gian)",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "上午",
+    "t": "上午",
+    "p": "shàngwǔ",
+    "vi": "buổi sáng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "中午",
+    "t": "中午",
+    "p": "zhōngwǔ",
+    "vi": "buổi trưa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "下午",
+    "t": "下午",
+    "p": "xiàwǔ",
+    "vi": "buổi chiều",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "晚上",
+    "t": "晚上",
+    "p": "wǎnshang",
+    "vi": "buổi tối",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "早上",
+    "t": "早上",
+    "p": "zǎoshang",
+    "vi": "buổi sáng sớm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "大",
+    "t": "大",
+    "p": "dà",
+    "vi": "to, lớn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "小",
+    "t": "小",
+    "p": "xiǎo",
+    "vi": "nhỏ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "多",
+    "t": "多",
+    "p": "duō",
+    "vi": "nhiều",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "少",
+    "t": "少",
+    "p": "shǎo",
+    "vi": "ít",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "好",
+    "t": "好",
+    "p": "hǎo",
+    "vi": "tốt",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "不好",
+    "t": "不好",
+    "p": "bù hǎo",
+    "vi": "không tốt",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "坏",
+    "t": "壞",
+    "p": "huài",
+    "vi": "xấu, hỏng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "高",
+    "t": "高",
+    "p": "gāo",
+    "vi": "cao",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "低",
+    "t": "低",
+    "p": "dī",
+    "vi": "thấp",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "长",
+    "t": "長",
+    "p": "cháng",
+    "vi": "dài",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "短",
+    "t": "短",
+    "p": "duǎn",
+    "vi": "ngắn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "新",
+    "t": "新",
+    "p": "xīn",
+    "vi": "mới",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "旧",
+    "t": "舊",
+    "p": "jiù",
+    "vi": "cũ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "热",
+    "t": "熱",
+    "p": "rè",
+    "vi": "nóng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "冷",
+    "t": "冷",
+    "p": "lěng",
+    "vi": "lạnh",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "快",
+    "t": "快",
+    "p": "kuài",
+    "vi": "nhanh",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "慢",
+    "t": "慢",
+    "p": "màn",
+    "vi": "chậm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "漂亮",
+    "t": "漂亮",
+    "p": "piàoliang",
+    "vi": "đẹp",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "高兴",
+    "t": "高興",
+    "p": "gāoxìng",
+    "vi": "vui",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "忙",
+    "t": "忙",
+    "p": "máng",
+    "vi": "bận",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "累",
+    "t": "累",
+    "p": "lèi",
+    "vi": "mệt",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "难",
+    "t": "難",
+    "p": "nán",
+    "vi": "khó",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "容易",
+    "t": "容易",
+    "p": "róngyì",
+    "vi": "dễ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "天气",
+    "t": "天氣",
+    "p": "tiānqì",
+    "vi": "thời tiết",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "雨",
+    "t": "雨",
+    "p": "yǔ",
+    "vi": "mưa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "下雨",
+    "t": "下雨",
+    "p": "xiàyǔ",
+    "vi": "mưa, trời mưa",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "雪",
+    "t": "雪",
+    "p": "xuě",
+    "vi": "tuyết",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "下雪",
+    "t": "下雪",
+    "p": "xiàxuě",
+    "vi": "tuyết rơi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "风",
+    "t": "風",
+    "p": "fēng",
+    "vi": "gió",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "天",
+    "t": "天",
+    "p": "tiān",
+    "vi": "trời; ngày",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "请",
+    "t": "請",
+    "p": "qǐng",
+    "vi": "mời; xin vui lòng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "谢谢",
+    "t": "謝謝",
+    "p": "xièxie",
+    "vi": "cảm ơn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "对不起",
+    "t": "對不起",
+    "p": "duìbuqǐ",
+    "vi": "xin lỗi",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "没关系",
+    "t": "沒關係",
+    "p": "méi guānxi",
+    "vi": "không sao",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "再见",
+    "t": "再見",
+    "p": "zàijiàn",
+    "vi": "tạm biệt",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "你好",
+    "t": "你好",
+    "p": "nǐ hǎo",
+    "vi": "xin chào",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "对",
+    "t": "對",
+    "p": "duì",
+    "vi": "đúng; đối với",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "错",
+    "t": "錯",
+    "p": "cuò",
+    "vi": "sai",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "给",
+    "t": "給",
+    "p": "gěi",
+    "vi": "cho",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "和",
+    "t": "和",
+    "p": "hé",
+    "vi": "và",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "跟",
+    "t": "跟",
+    "p": "gēn",
+    "vi": "với",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "从",
+    "t": "從",
+    "p": "cóng",
+    "vi": "từ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "因为",
+    "t": "因為",
+    "p": "yīnwèi",
+    "vi": "bởi vì",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "所以",
+    "t": "所以",
+    "p": "suǒyǐ",
+    "vi": "cho nên",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "但是",
+    "t": "但是",
+    "p": "dànshì",
+    "vi": "nhưng",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "如果",
+    "t": "如果",
+    "p": "rúguǒ",
+    "vi": "nếu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一起",
+    "t": "一起",
+    "p": "yìqǐ",
+    "vi": "cùng nhau",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "上",
+    "t": "上",
+    "p": "shàng",
+    "vi": "trên; lên",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "下",
+    "t": "下",
+    "p": "xià",
+    "vi": "dưới; xuống",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "前",
+    "t": "前",
+    "p": "qián",
+    "vi": "trước",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "后",
+    "t": "後",
+    "p": "hòu",
+    "vi": "sau",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "里",
+    "t": "裡",
+    "p": "lǐ",
+    "vi": "trong",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "外",
+    "t": "外",
+    "p": "wài",
+    "vi": "ngoài",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "左",
+    "t": "左",
+    "p": "zuǒ",
+    "vi": "trái",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "右",
+    "t": "右",
+    "p": "yòu",
+    "vi": "phải",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "里面",
+    "t": "裡面",
+    "p": "lǐmiàn",
+    "vi": "bên trong",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "外面",
+    "t": "外面",
+    "p": "wàimiàn",
+    "vi": "bên ngoài",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "前面",
+    "t": "前面",
+    "p": "qiánmiàn",
+    "vi": "phía trước",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "后面",
+    "t": "後面",
+    "p": "hòumiàn",
+    "vi": "phía sau",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "一",
+    "t": "一",
+    "p": "yī",
+    "vi": "một",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "二",
+    "t": "二",
+    "p": "èr",
+    "vi": "hai",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "三",
+    "t": "三",
+    "p": "sān",
+    "vi": "ba",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "四",
+    "t": "四",
+    "p": "sì",
+    "vi": "bốn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "五",
+    "t": "五",
+    "p": "wǔ",
+    "vi": "năm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "六",
+    "t": "六",
+    "p": "liù",
+    "vi": "sáu",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "七",
+    "t": "七",
+    "p": "qī",
+    "vi": "bảy",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "八",
+    "t": "八",
+    "p": "bā",
+    "vi": "tám",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "九",
+    "t": "九",
+    "p": "jiǔ",
+    "vi": "chín",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "十",
+    "t": "十",
+    "p": "shí",
+    "vi": "mười",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "百",
+    "t": "百",
+    "p": "bǎi",
+    "vi": "trăm",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "千",
+    "t": "千",
+    "p": "qiān",
+    "vi": "nghìn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "万",
+    "t": "萬",
+    "p": "wàn",
+    "vi": "vạn, mười nghìn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "零",
+    "t": "零",
+    "p": "líng",
+    "vi": "số không",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "的",
+    "t": "的",
+    "p": "de",
+    "vi": "của; trợ từ định ngữ",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "了",
+    "t": "了",
+    "p": "le",
+    "vi": "rồi; trợ từ chỉ thay đổi/trạng thái hoàn thành",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "吗",
+    "t": "嗎",
+    "p": "ma",
+    "vi": "trợ từ nghi vấn: ... không?",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "呢",
+    "t": "呢",
+    "p": "ne",
+    "vi": "thì sao?; trợ từ ngữ khí",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "吧",
+    "t": "吧",
+    "p": "ba",
+    "vi": "nhé; đi; trợ từ ngữ khí",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "着",
+    "t": "著",
+    "p": "zhe",
+    "vi": "trợ từ chỉ trạng thái đang tiếp diễn",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  },
+  {
+    "s": "过",
+    "t": "過",
+    "p": "guo",
+    "vi": "đã từng; qua",
+    "src": "HanScan Curated Core V1",
+    "confidence": "REVIEWED_CORE"
+  }
+]

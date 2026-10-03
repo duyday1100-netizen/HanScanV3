@@ -1,0 +1,23 @@
+/*
+This file documents the drop-in adapter for PaddleOCR's official Android SDK.
+It is intentionally .disabled so HanScan V3 builds immediately with bundled ML Kit OCR.
+
+Official API (PaddleOCR Android deployment docs):
+
+PaddleOCR ocr = PaddleOCR.create(
+    context,
+    new PaddleOCRConfig(...),
+    new EngineConfig(4),
+    "models/det/inference.onnx",
+    "models/rec/inference.onnx",
+    "models/rec/inference.yml"
+);
+OCRRunResult result = ocr.recognize(imageBytes);
+
+To enable:
+1. Copy official PaddleOCR deploy/ppocr-android/ppocr-sdk into project root.
+2. include(":ppocr-sdk") in settings.gradle.kts.
+3. implementation(project(":ppocr-sdk")) in app/build.gradle.kts.
+4. Put PP-OCRv5_mobile or PP-OCRv6 ONNX models under ppocr-sdk/src/main/assets/models/.
+5. Implement the same output conversion used by MlKitChineseOcrEngine -> OcrResult/OcrChar.
+*/
